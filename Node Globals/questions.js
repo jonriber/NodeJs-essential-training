@@ -1,6 +1,7 @@
 // process.stdout.write("Hello "); //more control over the string instead of console.log()
 // process.stdout.write("World \n\n\n");
 
+
 const questions = [
     "What is your name?",
     "What would you rather be doing?",
